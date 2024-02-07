@@ -8,7 +8,7 @@ I'll be documentation the progress of this journey here along the way.
 
 ## Progress
 
-- [x] Chapter 1 (06/02/2024 - 07/02/2024s)
-- [] Chapter 2
+- [x] Chapter 1 (06/02/2024 - 07/02/2024)
+- [] Chapter 2 (07/02/2024)
 - [] Chapter 3
 - [] Chapter 4
